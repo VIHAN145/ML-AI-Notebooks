@@ -1,6 +1,0 @@
-Machine Learning is a growing field in the IT industry. 
-Machine Learning helps in analyzing data and making valid predictions for various industries like healthcare, BFSI, IT, etc 
-Machine Learning is based on various algorithms like: Linear regression, logistic regression, KNN, K-Means, SVD, PCA, Random Forest, etc
-Machine Learning empowers the machine to enhance the tasks that humans do without adding bias to it. 
-Machine Learning algorithms are continuously evolving to serve various important purposes. 
-Various industries have a great demand for Machine Learning engineers.
